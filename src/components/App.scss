@@ -1,13 +1,13 @@
 body {
   font-family: CreteRound, serif;
+  overflow-x: hidden;
 }
 
-h1 {
+.portfolio {
   position: absolute;
-  text-align: center;
-
-  left:50vw;
-  transform: translateX(-50%);
-
-  top:100vh;
+  top: 100vh;
+  width: 100vw;
 }
+
+// TODO How to hide the scrollbar
+// https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll
