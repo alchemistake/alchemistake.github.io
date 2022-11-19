@@ -8,12 +8,12 @@ class TagLine extends React.Component {
             <img src="logo-fill.png" className="logo" alt="Logo"/>
             <div className="text-container">
                 <span className="text">I'm&nbsp;</span>
-                <span className="text">Infrastructure Engineer&nbsp;</span>
+                <span className="text">Software Engineer&nbsp;</span>
                 <span className="text">by day.</span>
             </div>
             <div className="text-container">
                 <span className="text">I try to be&nbsp;</span>
-                <span className="text">Game Developer&nbsp;</span>
+                <span className="text">Someone else&nbsp;</span>
                 <span className="text">by night.</span>
             </div>
         </div>
